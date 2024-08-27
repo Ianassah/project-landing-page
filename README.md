@@ -1,2 +1,1 @@
-"# project-landing-page" 
-"# project-landing-page" 
+landing page afriwear website mock-up not the actual site..
